@@ -1,0 +1,38 @@
+.zaglavlje {
+  height: 500px;
+  background: url('zaglavlje_bg.jpg') no-repeat;
+  background-size: cover;
+}
+.zaglavlje a {
+  font-size: 24pt;
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-left: 50px;
+  text-decoration: none;
+  font-family: 'M PLUS 1p', sans-serif;
+}
+.zaglavlje p {
+  color:#fff;
+  font-size: 32pt;
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'M PLUS 1p', sans-serif;
+}
+.navigacija{
+  height: 100px;
+  background-color: #f1c40F;
+}
+.navigacija li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 30px;
+}
+.navigacija li a {
+  line-height: 100px;
+  color: #000;
+  text-decoration: none;
+}
+.navigacija li a:hover {
+  color:red;
+}
